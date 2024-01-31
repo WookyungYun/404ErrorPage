@@ -1,6 +1,6 @@
 # 404ErrorPage
 
- <img src="![404 Page - Chrome 2024-01-31 22-49-26](https://github.com/WookyungYun/404ErrorPage/assets/116490063/9a9e1787-c22e-4c98-b944-6ebc2873e661)" alt="gif">
+ <img src="https://github.com/WookyungYun/404ErrorPage/assets/116490063/9a9e1787-c22e-4c98-b944-6ebc2873e661" alt="gif">
 
 
 **404 코드란?**
